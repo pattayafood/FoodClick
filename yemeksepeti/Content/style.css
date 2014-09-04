@@ -1,0 +1,1699 @@
+﻿
+body { margin:0;position: relative; background: #f8f8f8 url("../Images/bg.jpg") repeat-x center top;}
+#page{width:100%;}
+#header{width:100%; height:85px;}
+#content{width: 100%;margin: 21px 0 0;}
+#content2{width: 100%;}
+#icerik {width: 980px;margin: 0 auto;min-height:700px;}
+#anonymouspage .k-l-m {margin: 0 0 30px;position: relative;}
+#combo-arrow {background: transparent url("../Images/combo-arrow.png") no-repeat top left;height: 145px;left: -90px;position: absolute;top: -50px;width: 45px;
+}
+#anonymouspage .e-f h2.g, #anonymouspage .h-i-j h2.g, #anonymouspage .k-l-m h1.g {
+color: #a81815;
+font-family: "Helvetica neue",Helvetica,Arial,Sans-serif;
+font-size: 20px;
+font-weight: bold;
+margin: 0 0 10px;
+text-align: left;
+direction: ltr;}
+#anonymouspage .k-l-m .n-o {overflow: hidden;}
+#anonymouspage .k-l-m .n-o .n-r {width: 365px;}
+#anonymouspage .k-l-m .n-o .n {float: left;}
+#anonymouspage .k-l-m .n-o .n.n-r .p-u {background-position: 0 -7px;}
+#anonymouspage .k-l-m .n-o .p-u {height: 130px;width: 125px;float: left;}
+.a-b-c {background: url("../Images/anonymousPageSprite.png") no-repeat top left;}
+#anonymouspage .k-l-m .n-o .n.n-s .p-u {background-position: 0 -135px;}
+#anonymouspage .k-l-m .n-o .n.n-t .p-u {background-position: 0 -300px;}
+#anonymouspage .k-l-m .n-o .n-r .p-q {left: 24px;top: 50px;}
+#anonymouspage .k-l-m .n-o .n-r .p-q-db {left: 24px;top: 50px;}
+#anonymouspage .k-l-m .n-o .n-s .p-q {left: 10px;top: 50px;}
+#anonymouspage .k-l-m .n-o .n-t .p-q {left: 15px;top: 50px;}
+#anonymouspage .k-l-m .n-o .n .p-q {
+text-align: left;
+color: #5a5a5a;
+font-family: "Helvetica neue",Helvetica,Arial,Sans-serif;
+font-size: 18px;
+line-height: 21px;
+position: relative;
+display: block;
+float: left;}
+#anonymouspage .k-l-m .n-o .p-q .p-v {
+background-position: left -962px;
+height: 25px;
+width: 57px;
+position: absolute;
+top: 13px;
+right: -70px;}
+#anonymouspage .k-l-m .n-o .n-s {width: 399px;}
+#anonymouspage .k-l-m .n-o .n-t {width: 215px;}
+#anonymous-page-banner-areas {margin: 0 0 35px;overflow: hidden;}
+#anonymous-page-banner-slider, #main-banner-area {width: 651px;float: left;border-radius: 5px;overflow: hidden;position: relative;box-shadow: 0 0 2px rgba(0,0,0,0.2);}
+#anonymous-page-single-banner {
+float: right;
+width: 303px;
+height: 286px;
+box-shadow: 0 1px 4px #e9e9e9;
+border: 1px solid #e4e4e4;
+-webkit-border-radius: 4px;
+-moz-border-radius: 4px;
+border-radius: 4px;
+padding: 2px;}
+#anonymouspage .e-f {width: 982px;display: block;}
+#anonymouspage .e-f .p-o-w {margin: 26px 0 0;overflow: hidden;}
+#anonymouspage .e-f .p-o-w .p {
+float: left;
+width: 452px;
+height: 129px;
+border: 1px solid #e4e4e4;
+margin: 0 0 19px;
+padding: 0 0 0 26px;
+background-color: #fff;
+-webkit-border-radius: 5px;
+-moz-border-radius: 5px;
+border-radius: 5px;
+-webkit-box-shadow: 0 0 2px rgba(0,0,0,0.2);
+-moz-box-shadow: 0 0 2px rgba(0,0,0,0.2);
+box-shadow: 0 0 2px rgba(0,0,0,0.2);
+overflow: hidden;
+}
+#anonymouspage .e-f .p-o-w .p p {
+float: left;
+text-align: left;
+font-family: "Helvetica neue",Helvetica,Arial,Sans-serif;
+font-weight: bold;
+color: #343333;
+line-height: 23px;
+position: relative;
+font-size: 15px;
+}
+
+#anonymouspage .e-f .p-o-w .p .p-u {
+width: 150px;
+height: 129px;
+float: right;
+}
+#anonymouspage .e-f .p-o-w .p.x-y p, #anonymouspage .e-f .p-o-w .p.x-B p, #anonymouspage .e-f .p-o-w .p.C-x-B p {
+width: 40%;
+}
+#anonymouspage .e-f .p-o-w .p.x-y, #anonymouspage .e-f .p-o-w .p.z-A-B {
+margin-left: 20px;
+}
+#anonymouspage .e-f .p-o-w .p.x-y .p-u {
+background-position: left -572px;
+width: 150px;
+}
+#anonymouspage .e-f .p-o-w .p.D-B .p-u {
+background-position: left -703px;
+width: 157px;
+}
+#anonymouspage .e-f .p-o-w .p.D-B p, #anonymouspage .e-f .p-o-w .p.z-A-B p {
+top: 18px;
+width: 40%;
+}
+#anonymouspage #page-footer-text {
+margin: 10px 0 0;
+padding: 0;
+width: auto;
+}
+#page-footer-text p {
+color: #818181;
+font-size: 12px;
+line-height: 17px;
+text-align: justify;
+}
+#anonymouspage .e-f .p-o-w .p.z-A-B .p-u {
+background-position: left -831px;
+width: 154px;
+}
+#anonymouspage .e-f .p-o-w .p.x-B .p-u {
+background-position: 0 -441px;
+width: 175px;
+}
+#footer{
+width: 100%;
+height:148px;
+overflow: hidden;
+background: url("../Images/footer_back.png") repeat center 55% transparent;
+border-top: 1px solid #eaeaea;
+-moz-box-shadow: inset 0 0 3px 1px #eee;
+-webkit-box-shadow: inset 0 0 3px 1px #eee;
+box-shadow: inset 0 0 3px 1px #eee;}
+#footer2{width:100%; background:#252525;}
+#search{margin:0 auto;position: relative;width: 1055px;min-height: 25px;}
+#search-bar{width: 980px;margin: 0 auto;overflow: hidden;height:70px;}
+.searcharkaplan{
+border-radius: 8px 8px 0 0;
+padding: 16px 0 15px;
+box-shadow: 0 0 6px rgba(20,20,20,0.2);
+background: none repeat scroll 0 0 #eee;
+border-bottom: 1px solid #dbdbdb;
+margin: 21px 0 0;}
+#search-bar div.g {
+font-size: 19px;
+color: #343333;
+font-weight: bold;
+font-family: "Helvetica neue",Helvetica,Arial,Sans-serif;
+margin: 0;
+padding: 0;
+text-align: left;
+}
+#search-bar .pd-Se {padding: 13px 0 0 1px;overflow: hidden;}
+#restoran-footer{
+margin: 0 auto;
+overflow: hidden;
+padding: 30px 0;
+width: 980px;
+border-bottom: 1px solid #3a3a3a;
+}
+#restoran-footer h3{color: #d3d3d3;
+font-family: "Helvetica neue",Helvetica,Arial,Sans-serif;
+font-size: 11px;
+font-weight: bold;
+margin: 0 0 7px 40px;
+padding: 0;
+text-align: left;}
+#restoran-footer ul{list-style: none;}
+#restoran-footer li{max-width: 200px;}
+#restoran-footer ul li a{
+color: #8d8d8e;
+font-family: "Helvetica neue",Helvetica,Arial,Sans-serif;
+text-decoration: none;
+font-size: 10px;}
+#restoran-footer ul li a:hover{
+color: #ff5a00;}
+#restoran-footer ul li a span.fb{
+background: url("../Images/light-gray-arrow.png") no-repeat top left transparent;
+display: inline-block;
+height: 10px;
+padding: 0 3px;
+position: relative;
+top: 3px;
+width: 3px;}
+#restoran-footer .x-kb {
+float: left;
+width: 25%;}
+#restoran-footer .x-kb:first-child{margin-left:0;}
+ul {display: block;
+list-style-type: disc;
+-webkit-margin-before: 1em;
+-webkit-margin-after: 1em;
+-webkit-margin-start: 0px;
+-webkit-margin-end: 0px;
+-webkit-padding-start: 40px;}
+#copyright{
+padding: 30px 0;
+width: 980px;
+margin: 0 auto;
+overflow: hidden;}
+#footericerik{
+padding: 32px 0 43px;
+width: 980px;
+margin: 0 auto;
+overflow: hidden;}
+#footericerik .footerm{float:right;}
+#footericerik .footermenu2{
+overflow: hidden;
+width: 380px;
+list-style: none;}
+#footericerik .footermenu{
+float:right;
+overflow: hidden;
+width: 380px;
+list-style: none;}
+#footericerik .emre{}
+#footericerik .emre ul{
+overflow: hidden;
+width: 380px;
+list-style: none;}
+#footericerik .emre ul li{
+float: left;
+width: 190px;
+line-height: 33px;
+text-align: left;}
+#footericerik .emre ul li a {
+font-weight: bold;
+font-family: "Helvetica neue",Helvetica,Arial,Sans-serif;
+color: #252525;
+font-size: 14px;
+text-decoration: none;}
+#footericerik .footern{float: left;
+padding: 0 8px 8px 0;
+border-right: 1px solid #e0e0e0;
+margin: 0 21px 0 0;}
+#footericerik .footern .Pc-T{
+font-size: 14px;
+color: #252525;
+font-family: "Helvetica neue",Helvetica,Arial,Sans-serif;
+display: block;
+float: left;
+margin: 8px 16px 0 0;
+}
+#restaurantlist{
+
+}
+#restaurantlist .o-g{
+text-align: left;
+overflow: hidden;
+}
+
+#restaurantlist .o-g h1 {
+color: #343333;
+font-family: "Helvetica neue",Helvetica,Arial,Sans-serif;
+font-size: 30px;
+float: left;
+font-weight: normal;
+}
+#restaurantlist .o-g h1 span {
+font-weight: bold;
+}
+.x-o-T {
+float: left;
+width: 212px;
+}
+#fast-filter {
+box-shadow: 0 1px 4px #e9e9e9;
+border: 1px solid #e4e4e4;
+-webkit-border-radius: 6px;
+-moz-border-radius: 6px;
+border-radius: 6px;
+background: #f8f8f8;
+min-height: 100px;
+}
+#fast-filter .T-tc-p:first-child {
+box-shadow: none;
+}
+#fast-filter #fast-search-filter {
+border: 1px solid #fff;
+border-bottom: 0;
+padding: 13px 9px 11px 8px;
+-webkit-border-radius: 4px;
+-moz-border-radius: 4px;
+border-radius: 4px;
+overflow: hidden;
+}
+#fast-filter #fast-search-filter .T-U-tc-Hd {
+border: 1px solid #c9c9c9;
+border-radius: 28px;
+color: #343333;
+font-family: "Helvetica neue",Helvetica,Arial,Sans-serif;
+font-size: 11px;
+padding: 4px 12px;
+width: 170px;
+background: #fff;
+float: left;
+text-align: left;
+}
+
+#fast-filter #fast-type-filter {
+padding: 4px 8px 13px;
+}
+.Ld-Md-ib .tc-Nd-Tb, #fast-filter .tc-Nd-Tb {
+font-size: 11px;
+color: #252525;
+overflow: hidden;
+padding: 10px 0 0;
+}
+#fast-filter .tc-Nd-Tb .ab-Pd {
+background: #fff;
+background: -moz-linear-gradient(top,#ffffff 0%,#efefef 100%);
+background: -webkit-gradient(linear,left top,left bottom,color-stop(0%,#ffffff),color-stop(100%,#efefef));
+background: -webkit-linear-gradient(top,#ffffff 0%,#efefef 100%);
+background: -o-linear-gradient(top,#ffffff 0%,#efefef 100%);
+background: -ms-linear-gradient(top,#ffffff 0%,#efefef 100%);
+background: linear-gradient(to bottom,#ffffff 0%,#efefef 100%);
+-webkit-border-radius: 4px;
+-moz-border-radius: 4px;
+border-radius: 4px;
+border: 1px solid #c9c9c9;
+cursor: pointer;
+display: block;
+float: left;
+height: 19px;
+width: 19px;
+}
+.ab-Pd {
+background: #fff;
+background: -moz-linear-gradient(top,#ffffff 0%,#efefef 100%);
+background: -webkit-gradient(linear,left top,left bottom,color-stop(0%,#ffffff),color-stop(100%,#efefef));
+background: -webkit-linear-gradient(top,#ffffff 0%,#efefef 100%);
+background: -o-linear-gradient(top,#ffffff 0%,#efefef 100%);
+background: -ms-linear-gradient(top,#ffffff 0%,#efefef 100%);
+background: linear-gradient(to bottom,#ffffff 0%,#efefef 100%);
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffff',endColorstr='#efefef',GradientType=0);
+-webkit-border-radius: 4px;
+-moz-border-radius: 4px;
+border-radius: 4px;
+border: 1px solid #c9c9c9;
+cursor: pointer;
+display: block;
+float: left;
+height: 19px;
+width: 19px;
+}
+#now-open>span.wc-xc {
+background: url("../Images/restaurant-status-ico.png") 0 0 no-repeat;
+width: 19px;
+height: 18px;
+float: left;
+margin: 2px 0 0 9px;
+}
+#fast-filter .tc-Nd-Tb .Pd-jc {
+float: left;
+margin: 6px 0 0 5px;
+}
+#fast-filter #fast-type-filter .tc-Nd-Tb .Sd-Td-Pd, #fast-filter #fast-type-filter .tc-Nd-Tb .Ud-D-Pd {
+float: left;
+display: none;
+}
+#fast-filter #fast-type-filter .tc-Nd-Tb .tc-Vd {
+background: none repeat scroll 0 0 #e8e8e8;
+-webkit-border-radius: 12px;
+-moz-border-radius: 12px;
+border-radius: 12px;
+color: #8c9093;
+float: right;
+font-size: 11px;
+font-weight: bold;
+padding: 4px 9px;
+margin: 1px 0 0;
+text-shadow: -1px 1px 0 #fff!important;
+box-shadow: 0 1px 1px rgba(0,0,0,0.2) inset;
+}
+#with-promotion>span.Od {
+background: url("../Images/promotion-star.png") 0 0 no-repeat;
+width: 19px;
+height: 17px;
+float: left;
+margin: 1px 0 0 9px;
+}
+#fast-filter .T-tc-p {
+-moz-box-shadow: 0 6px 4px -4px rgba(0,0,0,0.1) inset;
+-webkit-box-shadow: 0 6px 4px -4px rgba(0,0,0,0.1) inset;
+box-shadow: 0 6px 4px -4px rgba(0,0,0,0.1) inset;
+border-bottom: 1px solid #e4e4e4;
+width: 100%;
+}
+#fast-filter #fast-delivery-area-filter {
+border-left: 1px solid #fff;
+border-right: 1px solid #fff;
+padding: 15px 11px 15px 10px;
+}
+#fast-filter #fast-delivery-area-filter .T-tc-p-g {
+color: #a81815;
+font-family: "Helvetica neue",Helvetica,Arial,Sans-serif;
+font-size: 13px;
+text-align: left;
+}
+#fast-filter #fast-delivery-area-filter .fast-delivery-area-filter-select {
+margin: 11px 0 0;
+}
+.ab-bb {
+border: 1px solid #dedede;
+padding: 0 14px;
+display: block;
+background: #fff;
+box-shadow: -1px -1px 0 rgba(20,20,20,0.15)!important;
+overflow: hidden;
+-webkit-border-radius: 20px;
+-moz-border-radius: 20px;
+border-radius: 20px;
+}
+.ab-bb {
+border: 1px solid #b5b6b5;
+}
+#fast-filter #fast-delivery-area-filter .ab-bb input {
+float: left;
+padding: 5px 0;
+font-size: 11px;
+}
+.ab-bb {
+background-color: #fff;
+border: 0;
+margin: 0;
+padding: 7px 0;
+vertical-align: bottom;
+width: 85%;
+color: #343333;
+font-family: "Helvetica neue",Helvetica,Arial,Sans-serif;
+font-size: 13px;
+font-weight: bold;
+}
+.ab-bb input {
+background: transparent!important;
+}
+#fast-filter #fast-delivery-area-filter .ab-bb .ab-bb-db {
+background: url("../Images/goog-combobox-arrow.png") 0 0 no-repeat;
+text-indent: -9999px;
+overflow: hidden;
+position: relative;
+top: 10px;
+right: -3px;
+float: right;
+}
+.ab-bb-db {
+cursor: pointer;
+display: inline-block;
+font-size: 10px;
+text-align: center;
+width: 16px;
+}
+#fast-filter #fast-delivery-area-filter .ab-bb .ab-rb {
+margin-top: -1px;
+z-index: 1000;
+max-height: 250px;
+overflow-x: hidden;
+overflow-y: auto;
+}
+#fast-filter #fast-delivery-area-filter .ab-bb .ab-rb {
+max-width: 230px;
+}
+.ab-bb .ab-rb {
+margin-top: -1px;
+z-index: 1000;
+}
+.ab-rb {
+background: #fff;
+border-color: #ccc #666 #666 #ccc;
+border-style: solid;
+border-width: 1px;
+cursor: default;
+margin: 0;
+outline: none;
+padding: 4px 0;
+position: absolute;
+z-index: 20000;
+max-height: 250px;
+overflow: auto;
+}
+#fast-filter #fast-delivery-area-filter .ab-bb .ab-rb .ab-cb {
+padding-left: 15px;
+padding-right: 20px;
+}
+.ab-cb {
+color: #000;
+list-style: none;
+margin: 0;
+padding: 4px 7em 4px 28px;
+white-space: nowrap;
+font-family: "Helvetica neue",Helvetica,Arial,Sans-serif;
+font-size: 12px;
+}
+
+.ab-cb-ib {
+color: #000;
+}
+
+#fast-filter #fast-minimum-delivery-price-filter {
+padding: 16px 11px 0;
+}
+#fast-filter #fast-minimum-delivery-price-filter .T-tc-p-g {
+color: #a81815;
+font-family: "Helvetica neue",Helvetica,Arial,Sans-serif;
+font-size: 13px;
+}
+#fast-filter .lb-w {
+margin: 20px 0 0;
+}
+#fast-filter .lb-w .ab-lb {
+background: transparent;
+width: 100%;
+}
+.ab-lb-Ce, .ab-lb-De {
+position: relative;
+}
+#fast-filter .lb-w .ab-lb-be {
+cursor: pointer;
+background: url("../Images/fast-slider-thumb.png") 0 0 no-repeat transparent;
+color: #54585c;
+font-size: 10px;
+height: 22px;
+padding: 5px 0 0;
+text-align: center;
+top: -8px;
+width: 33px;
+z-index: 10;
+cursor: pointer;
+}
+.ab-lb-De .ab-lb-be {
+top: 0;
+width: 20px;
+height: 100%;
+}
+.ab-lb-be {
+position: absolute;
+background-color: ThreeDShadow;
+overflow: hidden;
+}
+#fast-filter .lb-w .ab-lb .ce {
+background: #b4b3b3;
+-webkit-border-radius: 6px;
+-moz-border-radius: 6px;
+border-radius: 6px;
+box-shadow: 0 1px 1px 0 rgba(0,0,0,0.4) inset;
+height: 6px;
+overflow: hidden;
+position: relative;
+top: 40%;
+z-index: 1;
+}
+#fast-filter .lb-w .ce .Wb-pd {
+background: #ff5a00;
+box-shadow: 0 1px 1px 0 rgba(0,0,0,0.4) inset;
+height: 5px;
+width: 0;
+float: left;
+}
+#fast-filter .lb-w .ce .Xb-pd {
+float: right;
+}
+#fast-filter .lb-w .ce .Xb-pd {
+background: #ff5a00;
+box-shadow: 0 1px 1px 0 rgba(0,0,0,0.4) inset;
+height: 5px;
+width: 0;
+}
+#fast-filter .lb-w .lb-q {
+height: 15px;
+margin: 15px 0 0;
+background: url("../Images/fast-slider-text-bg.png") -3px center repeat-x;
+}
+#fast-filter #fast-minimum-delivery-price-filter .lb-q div:first-child {
+margin: 0 0 0 5px;
+}
+#fast-filter #fast-minimum-delivery-price-filter .lb-q div, #fast-filter #fast-minimum-delivery-price-filter .lb-q #n90 {
+margin: 0 0 0 44px;
+}
+#fast-filter .lb-w .lb-q div:first-child {
+float: left;
+}
+#fast-filter .lb-w .lb-q div {
+float: left;
+font-family: "Helvetica neue",Helvetica,Arial,Sans-serif;
+font-size: 11px;
+font-weight: bold;
+color: #252525;
+padding: 0 4px;
+background: #f8f8f8;
+}
+#fast-filter #fast-minimum-delivery-price-filter .lb-q div.ee-fe {
+margin: 0 11px 0 0;
+padding: 0;
+}
+#fast-filter .lb-w .lb-q div.ee-fe {
+float: right;
+}
+#fast-filter #fast-delivery-fee-filter {
+padding: 16px 10px 0;
+min-height: 80px;
+}
+#fast-filter #fast-delivery-fee-filter .T-tc-p-g {
+color: #a81815;
+font-family: "Helvetica neue",Helvetica,Arial,Sans-serif;
+font-size: 13px;
+}
+#fast-filter #fast-delivery-fee-filter .ab-rb-db {
+margin: 11px 0 0;
+border: 1px solid #dedede;
+padding: 0 14px;
+display: block;
+background: #fff;
+box-shadow: -1px -1px 0 rgba(20,20,20,0.15)!important;
+overflow: hidden;
+-webkit-border-radius: 20px;
+-moz-border-radius: 20px;
+border-radius: 20px;
+}
+#regionSelect, #easyRegionSelect, .ab-kd {
+box-shadow: 0 1px 3px rgba(20,20,20,0.1) inset!important;
+}
+#fast-filter #fast-delivery-fee-filter .ab-rb-db-Nd-B {
+color: #343333;
+font-family: "Helvetica neue",Helvetica,Arial,Sans-serif;
+font-size: 11px;
+font-weight: bold;
+padding: 6px 0;
+}
+#fast-filter #fast-delivery-fee-filter .ab-rb-db-ge {
+display: inline-block;
+height: 12px;
+overflow: hidden;
+width: 144px;
+}
+#fast-filter #fast-delivery-fee-filter .ab-rb-db-he {
+background: url("../Images/goog-combobox-arrow.png") no-repeat scroll 0 0 transparent;
+display: inline-block;
+float: right;
+overflow: hidden;
+position: relative;
+right: -1px;
+text-indent: -9999px;
+top: 4px;
+width: 12px;
+}
+#fast-filter #fast-restaurant-ratings-filter {
+border-left: 1px solid #fff;
+border-right: 1px solid #fff;
+padding: 16px 10px 10px;
+}
+#fast-filter #fast-restaurant-ratings-filter .T-tc-p-g {
+color: #a81815;
+font-family: "Helvetica neue",Helvetica,Arial,Sans-serif;
+font-size: 13px;
+text-align: left;
+}
+#fast-filter .lb-w {
+margin: 20px 0 0;
+}
+#fast-filter #fast-restaurant-ratings-filter .lb-q div:first-child {
+margin: 0 0 0 4px;
+}
+#fast-filter #fast-restaurant-ratings-filter .lb-q div {
+margin: 0 0 0 50px;
+}
+#fast-filter #fast-restaurant-ratings-filter .lb-q div.ee-fe {
+margin: 0 6px 0 0;
+}
+#fast-filter #fast-cuisine-selection-filter {
+border-left: 1px solid #fff;
+border-right: 1px solid #fff;
+padding: 16px 10px 0;
+}
+#fast-filter #fast-cuisine-selection-filter .T-tc-p-g {
+color: #a81815;
+font-family: "Helvetica neue",Helvetica,Arial,Sans-serif;
+font-size: 13px;
+text-align: left;
+}
+.Ld-Md-ib .tc-Nd-Tb, #fast-filter .tc-Nd-Tb {
+font-size: 11px;
+color: #252525;
+overflow: hidden;
+padding: 10px 0 0;
+}
+#fast-filter #fast-cuisine-selection-filter .Zd-wb {
+position: absolute;
+visibility: hidden;
+z-index: 999;
+-webkit-border-radius: 8px;
+-moz-border-radius: 8px;
+border-radius: 8px;
+border: 5px solid rgba(0,0,0,0.1);
+}
+#fast-filter #fast-cuisine-selection-filter .Zd-wb .Yd-X-w {
+background: #f63;
+width: 637px;
+-webkit-border-radius: 5px;
+-moz-border-radius: 5px;
+border-radius: 5px;
+overflow: hidden;
+}
+#fast-filter #fast-cuisine-selection-filter .Zd-wb .Yd-X-w h2.g {
+background: #fa8929;
+background: -moz-linear-gradient(top,#fa8929 0%,#fd6633 100%);
+background: -webkit-gradient(linear,left top,left bottom,color-stop(0%,#fa8929),color-stop(100%,#fd6633));
+background: -webkit-linear-gradient(top,#fa8929 0%,#fd6633 100%);
+background: -o-linear-gradient(top,#fa8929 0%,#fd6633 100%);
+background: -ms-linear-gradient(top,#fa8929 0%,#fd6633 100%);
+background: linear-gradient(to bottom,#fa8929 0%,#fd6633 100%);
+padding: 14px 31px 9px 20px;
+font-size: 14px;
+font-weight: bold;
+color: #fff;
+font-family: "Helvetica neue",Helvetica,Arial,Sans-serif;
+text-shadow: 0 -1px 0 rgba(0,0,0,0.4);
+text-align: left;
+}
+#fast-filter #fast-cuisine-selection-filter .Zd-wb .Yd-X-w .Yd-X-ae {
+background: url("../Images/lightbox-close.png") 0 0 no-repeat;
+right: 12px;
+top: 14px;
+position: absolute;
+width: 13px;
+height: 13px;
+cursor: pointer;
+}
+#fast-filter #fast-cuisine-selection-filter .Zd-wb .Yd-X-w .ib {
+background: #fff;
+margin: 3px;
+-webkit-border-radius: 6px 6px 4px 4px;
+-moz-border-radius: 6px 6px 4px 4px;
+border-radius: 6px 6px 4px 4px;
+-moz-box-shadow: 0 3px 4px 0 rgba(0,0,0,0.1);
+-webkit-box-shadow: 0 3px 4px 0 rgba(0,0,0,0.1);
+box-shadow: 0 3px 4px 0 rgba(0,0,0,0.1);
+color: #252525;
+font-size: 11px;
+}
+#fast-filter #fast-cuisine-selection-filter .Zd-wb .Yd-X-w .ib .Yd-X {
+padding: 11px 0 20px 19px;
+overflow: hidden;
+}
+#fast-filter #fast-cuisine-selection-filter .Zd-wb .Yd-X-w .ib .Yd-X .tc-Nd-Tb {
+float: left;
+width: 200px;
+}
+.Ld-Md-ib .dc-Tb, #fast-filter #fast-cuisine-selection-filter .Zd-wb .Yd-X-w .ib .dc-Tb {
+-moz-box-shadow: 0 3px 4px 0 rgba(0,0,0,0.1) inset;
+-webkit-box-shadow: 0 3px 4px 0 rgba(0,0,0,0.1) inset;
+box-shadow: 0 3px 4px 0 rgba(0,0,0,0.1) inset;
+padding: 15px 18px 14px;
+margin: 0;
+overflow: hidden;
+text-align: right;
+}
+.Ld-Md-ib .dc-Tb .X-tc-fb, #fast-filter #fast-cuisine-selection-filter .Zd-wb .Yd-X-w .ib .dc-Tb .X-tc-fb {
+padding: 6px 24px;
+}
+#fast-filter #fast-cuisine-selection-filter .T-X-sc-tc-Wd-Xd-Yd {
+background: url("../Images/orange-right-arrow.png") no-repeat scroll left center transparent;
+color: #ff5a00;
+display: block;
+font-size: 11px;
+margin: 8px 0 9px 30px;
+padding: 3px 0 5px 13px;
+text-align: left;
+}
+#fast-filter .T-tc-p .T-tc-p {
+-moz-box-shadow: none;
+-webkit-box-shadow: none;
+box-shadow: none;
+border: 0;
+border-top: 1px solid #e2e2e2;
+margin: 20px 0 0;
+padding: 0;
+width: 100%;
+}
+#fast-filter #fast-average-delivery-time-filter {
+border-left: 1px solid #fff;
+border-right: 1px solid #fff;
+padding: 16px 10px;
+}
+#fast-filter #fast-average-delivery-time-filter .T-tc-p-g {
+color: #a81815;
+font-family: "Helvetica neue",Helvetica,Arial,Sans-serif;
+font-size: 13px;
+text-align: left;
+}
+#fast-filter #fast-average-delivery-time-filter .lb-q div:first-child {
+margin: 0 0 0 9px;
+}
+#fast-filter #fast-average-delivery-time-filter .lb-q #n45 {
+margin: 0 0 0 34px;
+}
+#fast-filter #fast-average-delivery-time-filter .lb-q #n60 {
+margin: 0 0 0 28px;
+}
+#fast-filter #fast-average-delivery-time-filter .lb-q div.ee-fe {
+margin: 0 5px 0 0;
+float: right;
+}
+#fast-filter #fast-payment-method-filter {
+border-left: 1px solid #fff;
+border-right: 1px solid #fff;
+padding: 16px 10px;
+}
+#fast-filter #fast-payment-method-filter .ab-rb-db {
+margin: 11px 0 0;
+border: 1px solid #dedede;
+padding: 0 14px;
+display: block;
+background: #fff;
+box-shadow: -1px -1px 0 rgba(20,20,20,0.15)!important;
+overflow: hidden;
+-webkit-border-radius: 20px;
+-moz-border-radius: 20px;
+border-radius: 20px;
+}
+#fast-filter #fast-payment-method-filter .T-tc-p-g {
+color: #a81815;
+font-family: "Helvetica neue",Helvetica,Arial,Sans-serif;
+font-size: 13px;
+text-align: left;
+}
+#fast-filter #fast-payment-method-filter .ab-rb-db {
+margin: 11px 0 0;
+border: 1px solid #dedede;
+padding: 0 14px;
+display: block;
+background: #fff;
+box-shadow: -1px -1px 0 rgba(20,20,20,0.15)!important;
+overflow: hidden;
+-webkit-border-radius: 20px;
+-moz-border-radius: 20px;
+border-radius: 20px;
+}
+#fast-filter #fast-payment-method-filter .ab-rb-db-Nd-B {
+color: #343333;
+font-family: "Helvetica neue",Helvetica,Arial,Sans-serif;
+font-size: 11px;
+font-weight: bold;
+padding: 6px 0;
+}
+#fast-filter #fast-payment-method-filter .ab-rb-db-ge {
+display: inline-block;
+height: 12px;
+overflow: hidden;
+width: 143px;
+}
+#fast-filter #fast-payment-method-filter .ab-rb-db-he {
+background: url("../Images/goog-combobox-arrow.png") no-repeat scroll 0 0 transparent;
+display: inline-block;
+float: right;
+overflow: hidden;
+position: relative;
+right: -1px;
+text-indent: -9999px;
+top: 4px;
+width: 12px;
+}
+.T-b {
+overflow: hidden;
+padding: 0 4px 0 0;
+}
+.T-b .x-o {
+float: right;
+width: 751px;
+}
+.T-b .x-o .x-o-Ah .T-tc-Bh-p {
+border-bottom: 1px solid #e4e4e4;
+padding: -3px 0 -5px ;
+}
+.T-b .x-o .x-o-Ah .T-tc-Bh-p .g {
+color: #252525;
+float: left;
+font-size: 13px;
+font-weight: bold;
+margin: 4px 8px 0 1px;
+font-family: "Helvetica neue",Helvetica,Arial,Sans-serif;
+}
+.T-b .x-o .x-o-Ah .T-tc-Bh-p ul.p-o {
+list-style: none outside none;
+overflow: hidden;
+
+}
+ul {
+list-style: disc;
+}
+.T-b .x-o .x-o-Ah .T-tc-Bh-p ul.p-o li {
+float: left;
+font-family: "Helvetica neue",Helvetica,Arial,Sans-serif;
+font-size: 11px;
+margin: 0 6px 6px 0;
+}
+.T-b .x-o .x-o-Ah .T-tc-Bh-p ul.p-o li a.p {
+display: block;
+font-size: 11px;
+font-weight: bold;
+padding: 5px 6px 4px 10px;
+text-decoration: none;
+border: 1px solid #dedede;
+color: #8c9093;
+text-shadow: 1px 1px 0 rgba(255,255,255,0.25);
+-webkit-border-radius: 20px;
+-moz-border-radius: 20px;
+border-radius: 20px;
+background: #e8e8e8;
+-webkit-box-shadow: inset 0 1px 0 rgba(71,71,71,0.07);
+-moz-box-shadow: inset 0 1px 0 rgba(71,71,71,0.07);
+box-shadow: inset 0 1px 0 rgba(71,71,71,0.07);
+overflow: hidden;
+
+}
+.T-b .x-o .x-o-Ah .T-tc-Bh-p ul.p-o li a.p .g {
+color: #8c9093;
+font-family: "Helvetica neue",Helvetica,Arial,Sans-serif;
+font-size: 11px;
+margin: 0 5px 0 0;
+}
+.T-b .x-o .x-o-Ah .T-tc-Bh-p ul.p-o li a.p .Fb {
+float: left;
+color: #8c9093;
+}
+.T-b .x-o .x-o-Ah .T-tc-Bh-p ul.p-o li a.p .Ib {
+background: url("../Images/fast-filtered-item-remove-icon.png") no-repeat scroll -32px 0;
+display: block;
+float: right;
+height: 11px;
+margin: 0 0 0 10px;
+width: 11px;
+}
+.T-b .x-o .x-o-Ah .T-tc-Bh-p ul.p-o li a.Jb-Yd {
+color: #252525;
+display: block;
+font-size: 11px;
+overflow: hidden;
+padding: 7px 4px 4px;
+text-decoration: none;
+}
+.T-b .x-o .x-o-Ah .T-tc-Bh-p ul.p-o li a.Jb-Yd .Ib {
+background: url("../Images/fast-filtered-item-clearall-icon.png") no-repeat scroll 0 0;
+display: block;
+float: left;
+height: 8px;
+margin: 1px 7px 0 0;
+width: 8px;
+}
+
+.T-x-Id-nd {
+padding: 14px 0 30px;
+overflow: hidden;
+}
+.T-Ch-p {
+float: left;
+width: 56%;
+}
+.T-Ch-p .g {
+color: #252525;
+float: left;
+font-size: 13px;
+font-weight: bold;
+margin: 8px 10px 0 0;
+font-family: "Helvetica neue",Helvetica,Arial,Sans-serif;
+}
+.T-Ch-p ul.p-o {
+list-style: none outside none;
+margin-top:0;
+}
+.T-Ch-p ul.p-o li {
+float: left;
+font-family: "Helvetica neue",Helvetica,Arial,Sans-serif;
+font-size: 11px;
+margin: 0 5px 0 0;
+}
+.T-Ch-p ul.p-o li a:hover,.T-Ch-p ul.p-o li a.Dh {
+background: #f60;
+color: #fff;
+border: 1px solid #f60;
+}
+.T-Ch-p ul.p-o li a.p {
+border: 1px solid #dedede;
+color: #343333;
+display: block;
+font-size: 13px;
+font-weight: bold;
+padding: 6px 14px;
+text-decoration: none;
+-webkit-border-radius: 20px;
+-moz-border-radius: 20px;
+border-radius: 20px;
+font-family: "Helvetica neue",Helvetica,Arial,Sans-serif;
+overflow: hidden;
+}
+.T-Ch-p ul.p-o li a {
+color: #4f565a;
+}
+.T-Ch-p ul.p-o li .q {
+float: left;
+}
+ .T-Ch-p ul.p-o li a.Dh .Ib {
+background: url("../Images/fast-short-asc-up-down.png") 0 0 no-repeat;
+display: block;
+float: right;
+height: 10px;
+margin: 1px 0 0 3px;
+width: 13px;
+}
+.T-Id-Eb {
+float: right;
+}
+.T-Id-Eb p {
+color: #252525;
+font-size: 11px;
+margin: 8px 0 0;
+}
+.T-x-Id {
+width: 100%;
+}
+.T-x-Id .p:hover {
+-moz-box-shadow: 0 0 6px rgba(54,54,54,0.3);
+-webkit-box-shadow: 0 0 6px rgba(54,54,54,0.3);
+box-shadow: 0 0 6px rgba(54,54,54,0.3);
+}
+.T-x-Id .p {
+-moz-box-shadow: 0 0 5px rgba(54,54,54,0.1);
+-webkit-box-shadow: 0 0 5px rgba(54,54,54,0.1);
+box-shadow: 0 0 5px rgba(54,54,54,0.1);
+border: 1px solid #e4e4e4;
+-webkit-border-radius: 6px;
+-moz-border-radius: 6px;
+border-radius: 6px;
+background: #fff;
+min-height: 100px;
+margin: 0 0 10px;
+padding: 20px 10px 17px;
+position: relative;
+display: block;
+cursor: pointer;
+}
+.p-md-w {
+width: 105px;
+height: 85px;
+float: left;
+}
+.p-md-ib {
+text-align: center;
+height: 85px;
+width: 85px;
+display: table;
+}
+.p-md {
+display: table-cell;
+vertical-align: middle;
+}
+.p-md-ib {
+text-align: center;
+height: 85px;
+width: 85px;
+display: table;
+}
+.p-md {
+display: table-cell;
+vertical-align: middle;
+}
+.T-x-Id .p h2.p-g {
+float: left;
+color: #343333;
+font-size: 18px;
+padding: 0 0 7px;
+font-weight: bold;
+font-family: "Helvetica neue",Helvetica,Arial,Sans-serif;
+text-align: left;
+max-width: 475px;
+width: 77%;
+margin-top:0;
+}
+.T-x-Id .p .p-X {
+font-size: 13px;
+color: #ff5a00;
+font-weight: bold;
+width: 77%;
+font-family: "Helvetica neue",Helvetica,Arial,Sans-serif;
+float: left;
+text-align: left;
+margin-top: -5px;
+}
+.T-x-Id .p .p-Mb {
+padding: 17px 0 0;
+float: left;
+overflow: hidden;
+font-size: 12px;
+color: #343333;
+text-align: left;
+}
+.T-x-Id .p .vc {
+font-family: "Helvetica neue",Helvetica,Arial,Sans-serif;
+font-size: 11px;
+overflow: hidden;
+padding: 5px 0 6px;
+float: right;
+margin: 32px 0 0;
+text-align: right;
+}
+.T-x-Id .p .p-Mb .m-Qb, .T-x-Id .p .p-Mb .m-Qc, .T-x-Id .p .p-Mb .m-Ub {
+margin-bottom: 5px;
+}
+.T-x-Id .p .p-Mb .g {
+display: block;
+padding: 0 0 7px;
+}
+.T-x-Id .p .p-Mb .Fb {
+color: #343333;
+font-weight: bold;
+}
+.T-x-Id .p .Fb {
+color: #40a31c;
+}
+.T-x-Id .p .p-Mb .m-Qc {
+float: left;
+width: 120px;
+}
+.T-x-Id .p .p-Mb .m-Ub {
+float: left;
+width: 80px;
+}
+.T-x-Id .p .vc {
+font-family: "Helvetica neue",Helvetica,Arial,Sans-serif;
+font-size: 11px;
+overflow: hidden;
+padding: 5px 0 6px;
+float: right;
+margin: 32px 0 0;
+text-align: right;
+}
+.T-x-Id .p .vc .Ig {
+float: left;
+}
+.T-x-Id .p .vc .Re {
+float: left;
+padding: 0 6px;
+}
+.T-x-Id .p .Jg {
+float: left;
+}
+.T-x-Id .p .vc .Re {
+float: left;
+padding: 0 6px;
+}
+.T-x-Id .p .Kg {
+float: left;
+}
+.T-x-Id .p .wc.xc {
+background-position: 0 0;
+}
+.T-x-Id .p .wc {
+background: url("../Images/restaurant-status-ico.png") 0 0 no-repeat;
+width: 20px;
+height: 18px;
+display: block;
+float: left;
+position: absolute;
+left: 10px;
+bottom: 7px;
+}
+.T-x-Id .p h2.p-g .p-g-nh {
+color: #343333;
+text-decoration: none;
+}
+a {
+color: #ff5a00;
+text-decoration: underline;
+}
+.T-x-Id .p .p-X .Re {
+color: #000;
+font-weight: normal;
+margin: 0 8px;
+}
+
+.T-x-Id .p .p-Mb .m-Qb {
+float: left;
+width: 130px;
+}
+#user-actions-bar {
+margin: 0 auto;
+position: relative;
+width: 1054px;
+min-height: 25px;
+}
+#user-actions-bar .Vc-H-ce-ib {
+border-radius: 8px 8px 0 0;
+padding: 3px 0 13px;
+box-shadow: 0 0 6px rgba(20,20,20,0.2);
+background: none repeat scroll 0 0 #eee;
+border-bottom: 1px solid #dbdbdb;
+margin: 19px 0 0;
+}
+#breadcrumb {
+width: 1054px;
+margin: 0 auto;
+overflow: hidden;
+}
+#breadcrumb ul {
+list-style: none;
+}
+#breadcrumb ul li.p {
+float: left;
+font-family: "Helvetica neue",Helvetica,Arial,Sans-serif;
+font-size: 13px;
+height: 14px;
+}
+#breadcrumb ul li.p a {
+font-family: "Helvetica neue",Helvetica,Arial,Sans-serif;
+color: #f63;
+font-size: 13px;
+text-decoration: none;
+}
+#breadcrumb ul li.p a span.Re {
+background: url("../Images/breadcrumb-arrow.png") no-repeat left top transparent;
+padding: 5px 3px;
+margin: 3px 12px 0 10px;
+float: right;
+}
+#breadcrumb ul li.p.ee span {
+color: #343333;
+}
+#restaurant-detail-page {
+overflow: hidden;
+width: 100%;
+padding: 0 2px;
+}
+#restaurant-detail-page .x-Mb-nd {
+width: 100%;
+text-align: left;
+padding: 0 0 25px;
+overflow: hidden;
+}
+#restaurant-detail-page .x-Mb-nd h1.g {
+font-size: 30px;
+color: #343333;
+font-family: "Helvetica neue",Helvetica,Arial,Sans-serif;
+padding: 0 0 5px;
+font-weight: bold;
+width: 100%;
+float: left;
+}
+#restaurant-detail-page .x-Mb-nd .x-X {
+text-align: left;
+float: left;
+margin-top:-20px;
+}
+#restaurant-detail-page .x-Mb-nd .x-X .x-X-nh {
+font-family: "Helvetica neue",Helvetica,Arial,Sans-serif;
+color: #ff5a00;
+font-size: 13px;
+text-decoration: none;
+}
+#restaurant-detail-page .x-Mb-nd .x-X .Re {
+color: #e4e4e4;
+font-size: 12px;
+padding: 0 7px;
+}
+#restaurant-main-content {
+overflow: hidden;
+margin: 0 0 50px;
+width: 100%;
+}
+#restaurant-detail-page .x-Mb-ib {
+width: 750px;
+float: left;
+}
+#restaurant-main-info-block {
+border: 1px solid #e4e4e4;
+-webkit-border-radius: 4px;
+-moz-border-radius: 4px;
+border-radius: 4px;
+padding: 20px 20px 10px;
+margin: 0 0 20px;
+background: #fff;
+box-shadow: 0 0 5px rgba(54,54,54,0.1);
+overflow: hidden;
+position: relative;
+}
+#restaurant-main-info-block .x-kb-Ob-Wb {
+float: left;
+width: 190px;
+}
+#restaurant-main-info-block .x-kb-Ob-Wb .x-md {
+text-align: center;
+height: 125px;
+width: 170px;
+border-right: 1px solid #e4e4e4;
+padding: 0 17px 0 0;
+display: table;
+}
+#restaurant-main-info-block .x-kb-Ob-Wb .x-md .x-md-Nd-ph {
+display: table-cell;
+vertical-align: middle;
+}
+#restaurant-main-info-block .x-kb-Ob-Wb .x-wc .u {
+background: url("../Images/restaurant-status-ico.png") 0 0 no-repeat;
+width: 20px;
+height: 18px;
+display: block;
+float: left;
+}
+#restaurant-main-info-block .x-kb-Ob-Wb .x-wc.xc .wc-q {
+color: #40a31c;
+display: block;
+float: left;
+margin: 4px 0 0 5px;
+}
+#restaurant-main-info-block .x-m-Ob {
+border-right: 1px solid #e4e4e4;
+width: 247px;
+float: left;
+margin: 0 0 35px;
+padding: 0 20px;
+}
+#restaurant-main-info-block .x-m-Ob ul.Ob-p-o {
+color: #343333;
+font-family: "Helvetica neue",Helvetica,Arial,Sans-serif;
+font-size: 13px;
+padding: 0 0 10px;
+}
+#restaurant-main-info-block .x-m-Ob ul.Ob-p-o .p-o {
+line-height: 23px;
+overflow: hidden;
+}
+#restaurant-main-info-block .x-m-Ob ul.Ob-p-o .p-o .g {
+float: left;
+}
+#restaurant-main-info-block ul li {
+list-style: none;
+}
+#restaurant-main-info-block .x-m-Ob ul.Ob-p-o .p-o .Fb {
+float: right;
+font-weight: bold;
+}
+#restaurant-main-info-block .x-m-Ob a.Xd-Yd-sh {
+color: #ff5a00;
+font-size: 11px;
+padding: 0 0 0 10px;
+}
+#restaurant-main-info-block .x-kb-Ob-Wb .x-wc.xc {
+background-position: 0 0;
+}
+#restaurant-main-info-block .x-kb-Ob-Wb .x-wc {
+padding: 10px 0 0 10px;
+font-family: "Helvetica neue",Helvetica,Arial,Sans-serif;
+font-size: 10px;
+font-weight: bold;
+overflow: hidden;
+}
+#restaurant-main-info-block .x-m-Ob a.Xd-Yd-sh span.u {
+background: url("../Images/min-order-value-ico.png") no-repeat scroll 0 0 transparent;
+display: block;
+float: left;
+height: 16px;
+margin: 3px 0 0;
+width: 12px;
+}
+#restaurant-main-info-block .x-Vc-th {
+float: left;
+padding: 0 0 0 20px;
+width: 210px;
+}
+#restaurant-main-info-block .x-Vc-th .vc {
+font-family: "Helvetica neue",Helvetica,Arial,Sans-serif;
+font-size: 11px;
+overflow: hidden;
+padding: 5px 0 6px;
+}
+#restaurant-main-info-block .x-Vc-th .vc .Ig {
+float: left;
+}
+#restaurant-main-info-block .x-Vc-th .vc .Fb.Lg {
+color: #a42238;
+}
+#restaurant-main-info-block .x-Vc-th .vc .Ig .Fb {
+font-weight: bold;
+padding: 0 0 0 4px;
+}
+#restaurant-main-info-block .x-Vc-th .vc .Re {
+float: left;
+padding: 0 6px;
+}
+#restaurant-main-info-block .x-Vc-th .vc .Jg {
+float: left;
+}
+#restaurant-main-info-block .x-Vc-th .vc .Jg .Fb {
+font-weight: bold;
+padding: 0 0 0 4px;
+}
+#restaurant-main-info-block .x-Vc-th .vc .Fb {
+color: #40a31c;
+}
+#restaurant-main-info-block .x-Vc-th .vc .Kg {
+float: left;
+}
+#restaurant-main-info-block .x-Vc-th .vc .Kg .Fb {
+font-weight: bold;
+padding: 0 0 0 4px;
+}
+#restaurant-main-info-block .x-Vc-th ul.Ob-p-o {
+color: #343333;
+font-family: "Helvetica neue",Helvetica,Arial,Sans-serif;
+font-size: 13px;
+padding: 0 0 10px;
+margin: 0 0 20px;
+}
+#restaurant-main-info-block .x-Vc-th ul.Ob-p-o .p-o {
+line-height: 23px;
+overflow: hidden;
+}
+#restaurant-main-info-block .x-Vc-th ul.Ob-p-o .p-o .g {
+float: left;
+margin: 0 0 45px;
+}
+#restaurant-main-info-block .x-Vc-th ul.Ob-p-o .p-o .Fb {
+float: right;
+font-weight: bold;
+width: 80px;
+display: block;
+margin-right: 22px;
+}
+#restaurant-detail-basket {
+box-shadow: 0 1px 4px #e9e9e9;
+border: 1px solid #e4e4e4;
+-webkit-border-radius: 4px;
+-moz-border-radius: 4px;
+border-radius: 4px;
+padding: 1px;
+background: #fff;
+}
+
+#restaurant-detail-basket h3.g {
+padding: 12px 15px;
+background: #fe8101;
+background: -moz-linear-gradient(top,#fe8101 0%,#ee5f00 100%);
+background: -webkit-gradient(linear,left top,left bottom,color-stop(0%,#fe8101),color-stop(100%,#ee5f00));
+background: -webkit-linear-gradient(top,#fe8101 0%,#ee5f00 100%);
+background: -o-linear-gradient(top,#fe8101 0%,#ee5f00 100%);
+background: -ms-linear-gradient(top,#fe8101 0%,#ee5f00 100%);
+background: linear-gradient(to bottom,#fe8101 0%,#ee5f00 100%);
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#fe8101',endColorstr='#ee5f00',GradientType=0);
+-webkit-border-top-left-radius: 4px;
+-webkit-border-top-right-radius: 4px;
+-moz-border-radius-topleft: 4px;
+-moz-border-radius-topright: 4px;
+border-top-left-radius: 4px;
+border-top-right-radius: 4px;
+font-family: "Helvetica neue",Helvetica,Arial,Sans-serif;
+font-size: 15px;
+font-weight: bold;
+color: #fff;
+text-shadow: 0 -2px 0 rgba(54,54,54,0.2);
+overflow: hidden;
+margin-top: -1px;
+}
+#restaurant-detail-basket h3.g span.Ib {
+background: url("../Images/restaurant-detail-basket-icon.png") no-repeat scroll 0 0 transparent;
+display: block;
+float: left;
+height: 23px;
+width: 27px;
+}
+#restaurant-detail-basket h3.g .oh {
+display: block;
+float: left;
+margin: 5px 0 0 12px;
+font-weight: bold;
+}
+.vb-wb {
+background: #fff;
+margin-top: -15px;
+}
+#empty-basket-wrapper {
+font-size: 11px;
+padding: 15px;
+font-family: "Helvetica neue",Helvetica,Arial,Sans-serif;
+}
+#restaurant-detail-page #user-basket-block {
+margin: 0;
+}
+#restaurant-detail-page .Vc-vb-Nb {
+width: 216px;
+float: right;
+}
+.ab-wh {
+display: block;
+}
+#user-basket-block {
+margin: 10px 0 0;
+}
+#user-basket-block  .Vc-vb-Nb {
+width: 216px;
+float: right;
+}
+#restaurant-menu-block {
+float: left;
+width: 210px;
+}
+#restaurant-detail-page #restaurant-menu {
+margin: 0;
+}
+#restaurant-menu {
+padding: 15px 11px;
+border: 1px solid #e4e4e4;
+-webkit-border-radius: 4px;
+-moz-border-radius: 4px;
+border-radius: 4px;
+background: #fff;
+box-shadow: 0 0 5px rgba(54,54,54,0.1);
+}
+#restaurant-menu ul.rb-p-o {
+list-style: none;
+}
+#restaurant-menu ul.rb-p-o li:first-child {
+border-top: 0;
+}
+#restaurant-menu ul.rb-p-o li {
+float: none;
+padding: 0;
+border-top: 0 solid #eee;
+text-align: left;
+margin-left: -30px;
+}
+#restaurant-menu ul.rb-p-o li a.p {
+font-weight: bold;
+color: #252525;
+padding: 8px 14px;
+display: block;
+font-size: 13px;
+text-decoration: none;
+font-family: "Helvetica neue",Helvetica,Arial,Sans-serif;
+margin: 0 0 1px;
+line-height: 16px;
+}
+#restaurant-menu {
+margin: 0;
+}
+#restaurant-menu ul.rb-p-o li a.p.Ab, #restaurant-menu ul.rb-p-o li a.p:hover {
+background-color: #ff6525;
+color: #fff!important;
+border-radius: 20px;
+-webkit-border-radius: 20px;
+-moz-border-radius: 20px;
+}
+.x-Mb-ib .x-yb-Mb {
+float: right;
+width: 522px;
+}
+#restaurant-promotion-block {
+margin: 0;
+}
+#restaurant-product-list .rb-Mb-Nb h2.g {
+background: url("../Images/title-line.png") repeat-x scroll 0 33px transparent;
+color: #252525;
+font-family: "Helvetica neue",Helvetica,Arial,Sans-serif;
+font-size: 15px;
+font-weight: bold;
+padding: 25px 23px 23px;
+}
+#restaurant-product-list .rb-Mb-Nb .rb-yb-p-o {
+overflow: hidden;
+border: 1px solid #e4e4e4;
+-webkit-border-radius: 4px;
+-moz-border-radius: 4px;
+border-radius: 4px;
+background: #fff;
+box-shadow: 0 0 5px rgba(54,54,54,0.1);
+padding: 12px 0;
+}
+#restaurant-product-list .rb-Mb-Nb .rb-yb-p-o .yb-p {
+padding: 11px 22px;
+overflow: hidden;
+position: relative;
+}
+#restaurant-product-list .rb-Mb-Nb .rb-yb-p-o .yb-p .yb-G {
+float: left;
+padding: 6px 0 0;
+width: 280px;
+}
+#restaurant-product-list .rb-Mb-Nb .rb-yb-p-o .yb-p .yb-G .g {
+color: #ff5a00;
+font-size: 15px;
+font-family: "Helvetica neue",Helvetica,Arial,Sans-serif;
+padding: 0 0 6px;
+line-height: 17px;
+font-weight: bold;
+}
+#restaurant-product-list .rb-Mb-Nb .rb-yb-p-o .yb-p .yb-H {
+bottom: 12px;
+position: absolute;
+right: 23px;
+}
+#restaurant-product-list .rb-Mb-Nb .rb-yb-p-o .yb-p .yb-zb-wb {
+float: left;
+}
+#restaurant-product-list .rb-Mb-Nb .rb-yb-p-o .yb-p .yb-zb-wb .yb-zb {
+width: 35px;
+padding: 5px 0 3px;
+text-align: center;
+margin: 0 6px 0 0;
+border: 1px solid #cacaca;
+-webkit-border-radius: 18px;
+-moz-border-radius: 18px;
+border-radius: 18px;
+float: left;
+font-size: 11px;
+-moz-box-shadow: 0 1px 1px 1px rgba(54,54,54,0.15) inset;
+-webkit-box-shadow: 0 1px 1px 1px rgba(54,54,54,0.15) inset;
+box-shadow: 0 1px 1px 1px rgba(54,54,54,0.15) inset;
+}
+#restaurant-product-list .rb-Mb-Nb .rb-yb-p-o .yb-p .yb-zb-wb .yb-te-vb-fb {
+float: left;
+font-size: 20px;
+margin: 1px 0 0;
+padding: 0 12px 0 13px;
+height: 20px;
+}
+.Kb.Lb {
+border: 1px solid #5ea65f;
+color: #fff!important;
+font-size: 13px;
+text-shadow: -1px -1px 0 rgba(20,20,20,0.25)!important;
+background: #4fb751;
+background: -moz-linear-gradient(top,rgba(79,183,81,1) 0%,rgba(60,116,61,1) 100%);
+background: -webkit-gradient(linear,left top,left bottom,color-stop(0%,rgba(79,183,81,1)),color-stop(100%,rgba(60,116,61,1)));
+background: -webkit-linear-gradient(top,rgba(79,183,81,1) 0%,rgba(60,116,61,1) 100%);
+background: -o-linear-gradient(top,rgba(79,183,81,1) 0%,rgba(60,116,61,1) 100%);
+background: -ms-linear-gradient(top,rgba(79,183,81,1) 0%,rgba(60,116,61,1) 100%);
+background: linear-gradient(to bottom,rgba(79,183,81,1) 0%,rgba(60,116,61,1) 100%);
+-webkit-box-shadow: 0 -2px 0 rgba(0,0,0,0.1);
+-moz-box-shadow: 0 -2px 0 rgba(0,0,0,0.1);
+box-shadow: 0 -2px 0 rgba(0,0,0,0.1);
+font-family: "Helvetica neue",Helvetica,Arial,Sans-serif;
+}
+.Kb {
+display: inline-block;
+padding: 6px 14px;
+font-family: "Helvetica neue",Helvetica,Arial,Sans-serif;
+-webkit-border-radius: 20px;
+-moz-border-radius: 20px;
+border-radius: 20px;
+text-decoration: none;
+font-weight: bold;
+}
+#restaurant-product-list .rb-Mb-Nb .rb-yb-p-o .yb-p .yb-zb-wb .yb-te-vb-fb .u {
+background: transparent url("../Images/plus.png") no-repeat top left;
+display: inline-block;
+height: 13px;
+width: 11px;
+position: relative;
+top: -1px;
+}
+#restaurant-product-list .rb-Mb-Nb h2.g span {
+background: #f8f8f8;
+left: -10px;
+padding: 0 10px;
+position: relative;
+}
+element.style {
+}
+#restaurant-product-list .rb-Mb-Nb .rb-yb-p-o .yb-p .yb-Bb {
+font-weight: bold;
+color: #252525;
+float: left;
+font-family: "Helvetica neue",Helvetica,Arial,Sans-serif;
+font-size: 13px;
+padding: 4px 0 0;
+text-align: right;
+width: 86px;
+}
+input[type="checkbox"] {
+    height:20px;
+    width:20px;
+    margin:0;
+}
+.T-x-Id .p .D {
+background: url("../Images/product-promotion-flag.png") no-repeat scroll left 0 transparent;
+color: #fff;
+display: block;
+font-size: 13px;
+font-weight: bold;
+padding: 7px 36px 10px 48px;
+position: absolute;
+right: -21px;
+font-family: "Helvetica neue",Helvetica,Arial,Sans-serif;
+text-shadow: 0 -2px 0 rgba(54,54,54,0.2);
+}
